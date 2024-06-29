@@ -9,10 +9,8 @@ const int rightMotor1=4;
 const int rightMotor2=5;
 const int waterPump=6;
 
-
-
 const int servoPin=7;
-number if necessary
+number if necessaryg
  
 Servo myservo;
 //declare a boolean varable to track water pump status and fire status
