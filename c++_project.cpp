@@ -8,6 +8,9 @@ const int leftMotor2=3;
 const int rightMotor1=4;
 const int rightMotor2=5;
 const int waterPump=6;
+
+
+
 const int servoPin=7;
 number if necessary
  
